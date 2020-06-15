@@ -1,4 +1,4 @@
-<div align: "center">
+<div align= "center">
   <img width="300px" src="/public/assets/logo.svg" alt="Ecoleta" />
 </div>
 
