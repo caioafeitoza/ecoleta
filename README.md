@@ -35,6 +35,7 @@
   <li>NodeJs and NPM</li>
 </ul>
 <p>With all the components on your computer, follow the sequence below ⬇</p>
+
 ```sh
 #Clone the repository 
 $ git clone https://github.com/caioafeitoza/ecoleta.git 
@@ -47,5 +48,7 @@ $ npm install
 
 #Run the application 
 $ npm start
+
 #Open in http://localhost:3000/
 ```
+
