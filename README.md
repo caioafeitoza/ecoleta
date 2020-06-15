@@ -1,4 +1,4 @@
-<img src="/public/assets/logo.svg" alt="Ecoleta" />
+<img style="text-align: center;" src="/public/assets/logo.svg" alt="Ecoleta" />
 
 <h2>What is Ecoleta?</h2>
 <p>
@@ -35,7 +35,17 @@
   <li>NodeJs and NPM</li>
 </ul>
 <p>With all the components on your computer, follow the sequence below ⬇</p>
-```bash #Clone the repository $ git clone
-https://github.com/caioafeitoza/ecoleta.git #Enter the repository folder $ cd
-ecoleta #Install the dependencies $ npm install #Run the application $ npm start
-#Open in http://localhost:3000/ ```
+```
+#Clone the repository 
+$ git clone https://github.com/caioafeitoza/ecoleta.git 
+
+#Enter the repository folder 
+$ cd ecoleta 
+
+#Install the dependencies 
+$ npm install 
+
+#Run the application 
+$ npm start
+#Open in http://localhost:3000/
+```
