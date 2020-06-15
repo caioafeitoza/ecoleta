@@ -4,7 +4,7 @@
 
 <h2>What is Ecoleta?</h2>
 <p>
-  Ecoleta it's a project developed to help people find near places that collect
+  Ecoleta is a project developed to help people find near places that collect
   types of waste. Ecoleta aims to encourage the society to build a better, and
   clean, world.
 </p>
