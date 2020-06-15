@@ -1,4 +1,4 @@
-<img style="text-align: center;" src="/public/assets/logo.svg" alt="Ecoleta" />
+<img style="align: center;" src="/public/assets/logo.svg" alt="Ecoleta" />
 
 <h2>What is Ecoleta?</h2>
 <p>
